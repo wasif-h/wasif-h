@@ -35,5 +35,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasif-h&" alt="wasif-h" /></p>
 
 <h3 align="left">Thank You for Visiting 🤖</h3>
-<img align="center" alt="Coding" width="100%" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)">
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
