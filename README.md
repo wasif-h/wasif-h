@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/wasif-h)
 <h1 align="center">Hi Aliens 👋, I'm Wasif Hossain</h1>
 <h3 align="center">A passionate AI Explorer from Bangladesh, Earth-1218</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VfcfntqDyGlaoTn9MlabEA.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif-h&label=Profile%20views&color=0e75b6&style=flat" alt="wasif-h" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
