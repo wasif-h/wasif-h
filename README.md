@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Data Science, Deep Learning, NLP, Cloud, DevOps**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **HealthCare**
 
@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasif-h&" alt="wasif-h" /></p>
 
-<p> Thank You Aliens </p>
+<h3 align="left">Thank You Aliens - See you Soon</h3>
