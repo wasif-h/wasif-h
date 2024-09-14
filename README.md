@@ -1,8 +1,7 @@
-<![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io>
-<h1 align="center">Hello World 🤖   I'm Wasif Hossain</h1>
-<h3 align="center">AI Enthusiast from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/wasif-h/)
+<h1 align="center">Hello Aliens 👋, I'm Wasif Hossain</h1>
+<h3 align="center">A passionate AI Engineer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif-h&label=Profile%20views&color=0e75b6&style=flat" alt="wasif-h" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasif-h" alt="wasif-h" /></a> </p>
