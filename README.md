@@ -1,9 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/wasif-h)
-<h1 align="center">Hi Aliens 👋, I'm Wasif Hossain</h1>
-<h3 align="center">A passionate AI Explorer from Bangladesh, Earth-1218</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif-h&label=Profile%20views&color=0e75b6&style=flat" alt="wasif-h" /> </p>
-
 ![Purple Abstract Graphic Design LinkedIn Article Cover Image(1)](https://github.com/user-attachments/assets/2f4b28df-f07d-4155-b892-709bf3a5367d)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/wasif-h)
 
 
 - 🔭 I’m currently working on **Machine Learning**
