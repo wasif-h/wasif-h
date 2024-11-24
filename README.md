@@ -1,3 +1,5 @@
+<div align = "center">
+  
 ![Purple Abstract Graphic Design LinkedIn Article Cover Image(1)](https://github.com/user-attachments/assets/2f4b28df-f07d-4155-b892-709bf3a5367d)
 <div align = "center" >
   
@@ -38,3 +40,5 @@
 
 <h2 align="left">Let's Colab Mates :)</h2>
 <img align="left" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+</div>
