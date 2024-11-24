@@ -3,6 +3,9 @@
 <h3 align="center">A passionate AI Explorer from Bangladesh, Earth-1218</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif-h&label=Profile%20views&color=0e75b6&style=flat" alt="wasif-h" /> </p>
 
+![Purple Abstract Graphic Design LinkedIn Article Cover Image(1)](https://github.com/user-attachments/assets/2f4b28df-f07d-4155-b892-709bf3a5367d)
+
+
 - 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Data Science and Data Analytics**
