@@ -6,11 +6,11 @@
   
 
 
-🔭 I’m currently working on **Data Analytics**
+🔭 I’m currently working on **Machine Learning**
 
-🌱 I’m currently learning **Generative Artificial Intelligence (GenAI)**
+🌱 I’m currently learning **Deep Learning**
 
-👯 I’m looking to collaborate on **Traffic Management System of Bangladesh**
+👯 I’m looking to collaborate on **Football Tactics Generation**
 
 💬 Ask me about **Data Science and ML on Linkedin**
 
