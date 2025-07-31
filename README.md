@@ -1,6 +1,7 @@
 <div align = "center">
   
-![Purple Abstract Graphic Design LinkedIn Article Cover Image(1)](https://github.com/user-attachments/assets/2f4b28df-f07d-4155-b892-709bf3a5367d)
+<img width="2000" height="600" alt="intro" src="https://github.com/user-attachments/assets/23cdff8d-a323-4849-bcac-f78ecaeca071" />
+
 
 ![snake gif](https://github.com/wasif-h/wasif-h/blob/output/github-snake-dark.svg)
   
