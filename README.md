@@ -5,19 +5,6 @@
 
 ![snake gif](https://github.com/wasif-h/wasif-h/blob/output/github-snake-dark.svg)
   
-
-
-🔭 I’m currently working on **Machine Learning**
-
-🌱 I’m currently learning **Deep Learning**
-
-👯 I’m looking to collaborate on **Football Tactics Generation**
-
-💬 Ask me about **Data Science and ML on Linkedin**
-
-  <br>
-  <br>
-
 <h2>Connect with Me 🔗</h2>
 <p>
 <a href="https://linkedin.com/in/wasif-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasif-h" height="30" width="40" /></a>
