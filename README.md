@@ -1,8 +1,6 @@
 <div align = "center">
 
  <img width="854" height="600" alt="intro" src="https://github.com/user-attachments/assets/23cdff8d-a323-4849-bcac-f78ecaeca071" />
- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Code%20|%20Create%20|%20Innovate&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/> </div>
-  
 
 
 
@@ -25,6 +23,7 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/wasif-h)
 <h1>Github Stats</h1>
+ <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Code%20|%20Create%20|%20Innovate&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/> </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
