@@ -1,7 +1,9 @@
 <div align = "center">
+
+ <img width="854" height="600" alt="intro" src="https://github.com/user-attachments/assets/23cdff8d-a323-4849-bcac-f78ecaeca071" />
  <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Code%20|%20Create%20|%20Innovate&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/> </div>
   
-<img width="852" height="600" alt="intro" src="https://github.com/user-attachments/assets/23cdff8d-a323-4849-bcac-f78ecaeca071" />
+
 
 
 
