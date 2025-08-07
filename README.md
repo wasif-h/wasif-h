@@ -11,9 +11,6 @@
 <p>
 <a href="https://linkedin.com/in/wasif-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasif-h" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdwasifhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdwasifhossain" height="30" width="40" /></a>
-<a href="https://fb.com/wasifshihab.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasifshihab.33" height="30" width="40" /></a>
-<a href="https://youtube.com/@programmingwithwasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming with wasif" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/wasif71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wasif71" height="30" width="40" /></a>
 </p>
 <br>
 
